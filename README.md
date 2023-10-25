@@ -45,13 +45,13 @@ Para compilar e executar o compilador, siga estas etapas:
 2. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/analise-sintatica-compiler
+   git clone https://github.com/ana-athayde/analise_sintatica_compilador_haskell
    ```
 
 3. Navegue até o diretório do projeto:
 
    ```bash
-   cd analise-sintatica-compiler
+   cd analise_sintatica_compilador_haskell
    ```
 
 4. Compile o projeto com o comando `make`:
