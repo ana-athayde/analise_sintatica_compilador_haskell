@@ -68,6 +68,15 @@ Para compilar e executar o compilador, siga estas etapas:
    ./Main
    ```
 
+## Documentação do Projeto
+
+Este repositório inclui um arquivo de documentação em formato PDF que fornece detalhes abrangentes sobre a implementação da análise sintática do compilador em Haskell. A documentação contém informações sobre as produções da gramática, a estrutura do código, os tipos de dados utilizados e muito mais.
+
+- [Documentação em PDF](Documentacao_Analise_Sintatica.pdf)
+
+Certifique-se de verificar a documentação para obter insights adicionais sobre o projeto e sua implementação.
+
+
 ## Próximas Etapas
 
 Este projeto é a primeira fase do desenvolvimento do compilador. As próximas etapas incluem a análise semântica (verificação de tipos) e a geração de código a partir da representação intermediária. Estamos animados para continuar aprimorando e expandindo este compilador.
